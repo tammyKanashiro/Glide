@@ -1,0 +1,21 @@
+
+body{
+    height: 100%;
+}
+
+.container{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+}
+/*
+.glide__slide{
+    display: inline-block;
+    max-width: 40%;
+    max-height: 250px;
+    height: auto;
+    width: auto;
+}*/
